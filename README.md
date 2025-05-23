@@ -1,3 +1,2 @@
 # ozlenenSevgi.github.io
-ads352 web page
-WELCOME!
+welcome to ADS352 web page
